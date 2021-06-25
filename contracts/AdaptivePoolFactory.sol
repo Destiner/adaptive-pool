@@ -2,4 +2,8 @@
 
 pragma solidity ^0.7.1;
 
-import "@balancer-labs/v2-vault/contracts/interfaces/IVault.sol";
+import "@balancer-labs/v2-pool-utils/contracts/factories/BasePoolFactory.sol";
+
+abstract contract AdaptivePoolFactory is BasePoolFactory {
+
+}
