@@ -15,6 +15,7 @@
     "ts-node": "^10.0.0"
   },
   "dependencies": {
+    "@balancer-labs/v2-pool-utils": "^1.0.0",
     "@balancer-labs/v2-vault": "^1.0.0"
   }
 }
